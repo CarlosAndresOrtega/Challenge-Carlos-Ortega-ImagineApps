@@ -67,6 +67,8 @@
   align-items: center;
   gap: 3px;
   margin-right: 2px;
+  font-weight: bolder;
+  color: black;
 }
 .foto {
   color: "#378fe9";
